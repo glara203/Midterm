@@ -1,0 +1,15 @@
+---
+title: "Midterm: Part I"
+author: "Gabby Lara Larimore"
+output: 
+  prettydoc::html_pretty:
+    theme: hpstr
+    toc: yes
+date: "2025-10-20"
+---
+
+Describe the civic problem and its implications for the community. Be as specific as possible.
+
+Libraries are a public good that everyone can access and enjoy. Libraries have books, CDs, DVDs, audiobooks, e-books, journals, and so many other materials available to the general public for free. As technology has improved and changed, libraries have managed to keep pace by offering new digital materials and new technologies. Most libraries provide computers with internet access that patrons can use for free and many libraries provide free printing access. Some libraries have maker spaces that have 3d printers or laser cutter that patrons can learn to use and then use for anything they'd like to. 
+Although, libraries are able to provide all these wonderful services to the public, many people in the United States do not think that libraries should continue to be funded or are a public good that is needed in society. Recently, small groups of people have been working to ban books in libraries due to the subject matter of the book. People are using these book ban asks as a way to fight for ways to provide less funding to libraries. They are arguing that since libraries are providing books with subject matter that they do not approve of the libraries should not have as much funding so that they cannot house or offer these books to the public. 
+These people want to control what media people are consuming to ensure that they can control the information people learn. This is a huge problem because people should not have this type of control over others. Libraries are some of the only spaces that welcome everyone and allows people to learn and access materials, whether physical or digital, in a safe environment. Without these spaces, people would suffer and not be able to learn or have a safe place to go. 
