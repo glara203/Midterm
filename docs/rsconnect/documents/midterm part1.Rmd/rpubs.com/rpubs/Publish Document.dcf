@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1357550/ae359e0cbeb14a25b88ed1dbe93e6058
+bundleId: https://api.rpubs.com/api/v1/document/1357550/ae359e0cbeb14a25b88ed1dbe93e6058
+url: http://rpubs.com/glara/1357550
+version: 1
